@@ -74,6 +74,11 @@ body {
   color: black;
   text-transform: uppercase;
   font-size: 0.625em;
+  cursor: pointer;
+}
+
+.block__button-chat {
+  cursor: pointer;
 }
 
 .block__footer-second {
@@ -135,6 +140,7 @@ body {
   width: 12px;
   height: 12px;
   margin-left: 66px;
+  cursor: pointer;
 }
 
 .block__user-comments {
